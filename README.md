@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Data Science and Machine Learning enthusiast passionate about building intelligent systems from data to deployment. I enjoy solving real-world problems using AI, analytics, and strong engineering foundations.
+I’m a Data Science and Machine Learning enthusiast passionate about building intelligent systems from data to deployment. I enjoy solving real-world problems using AI, analytics and strong engineering foundations.
 
 
 ## 🌐 Socials:
